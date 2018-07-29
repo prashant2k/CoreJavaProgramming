@@ -1,2 +1,2 @@
 # CoreJavaProgramming
-useful corejava program
+coding related to core java
